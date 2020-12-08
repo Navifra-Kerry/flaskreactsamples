@@ -10,7 +10,7 @@ You will also see any lint errors in the console.
 
 ### `npm run build`
 
-Flask Server 에서 빌드는 배포 하기 위해 패키징 작업 \*.map File을 같이 배포 하면 Chorme에서 Client 코드는 볼 수 있음. 삭제 후 해야함.
+Flask Server 에서 빌드 된 폴더를 배포 하기 위해 패키징 작업 \*.map File을 같이 배포 하면 Chorme에서 Client 코드는 볼 수 있음. 삭제 후 해야함.
 
 ```json
 {
